@@ -18,8 +18,8 @@ A Python-based **Deadlock Detection Tool** with a **Tkinter GUI** that uses the 
 ## 🖥 Setup & Run  
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/your-username/deadlock-detection-tool.git
-   cd deadlock-detection-tool
+   git clone https://github.com/fahadkhan007/Automated-deadlock-detection-tool.git
+   cd Automated-deadlock-detection-tool
    ```  
 2. Install dependencies:  
    ```sh
